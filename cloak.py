@@ -1,7 +1,7 @@
 import cv2
 import numpy
 
-# these are the sample messgaes for git learning. 
+ 
 #initial function for the callin of the trackbar
 def hello(x):
 	#only for referece
@@ -69,7 +69,7 @@ while(True):
 
 	final = cv2.bitwise_or(frame_inv, blanket_area)
 
-	cv2.imshow("Harry's Cloak",final)
+	cv2.imshow("Mihir's Cloak",final)
 
 	if(cv2.waitKey(3) == ord('q')):
 		break;
