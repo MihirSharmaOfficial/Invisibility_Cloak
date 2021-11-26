@@ -1,7 +1,7 @@
 import cv2
 import numpy
 
-
+# these are the sample messgaes for git learning. 
 #initial function for the callin of the trackbar
 def hello(x):
 	#only for referece
